@@ -226,3 +226,66 @@ nav {
     line-height: 143%;
     color: #787885;
 }
+
+.see-more {
+    text-align: end;
+    margin-top: 30px;
+}
+
+.see-more a {
+    color: rgba(224, 44, 109, 0.87);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+
+.see-more a i {
+    margin-left: 5px;
+}
+
+/*--------------------------------------------------------------
+# Featured products
+--------------------------------------------------------------*/
+#featured-products {
+    padding: 80px 0px;
+}
+
+.featured-productes {
+    display: flex;
+    align-items: center;
+    gap: 96px;
+    justify-content: center;
+}
+
+.featured-daitls h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 60px;
+    color: #0A0826;
+    margin-bottom: 16px;
+}
+
+.featured-daitls p {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    color: #6C6C6C;
+    margin-bottom: 25px;
+}
+
+.featured-daitls a {
+    padding: 10px 24px;
+    background: #E02C6D;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.featured-daitls a i {
+    margin-left: 8px;
+}
